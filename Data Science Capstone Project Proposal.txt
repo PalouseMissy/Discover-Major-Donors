@@ -1,0 +1,24 @@
+Data Science Capstone Project Proposal—Finding New Prospects
+Missy Lee
+June 22, 2016
+
+
+After recently closing our second fundraising campaign, we need to identify new potential major gift donors ahead of the next campaign.  Major gifts are sought, not only to provide funding for buildings, scholarships, professorships and other initiatives but also attract other gifts.  A major gift donor is currently defined as one who has the capacity to make a $25,000 gift.  How can what we know about people who gave before be used to identify those who may give in the future?  What characteristics can be identified and used to find currently unknown prospects?  Do they currently give in smaller amounts (less than $25,000)?  And if that is the case, is there a factor that converts someone from giving smaller amounts to giving more?
+
+State funding has declined over the past decade at the same time as the need for new facilities and programs has increased.  Private philanthropy is looked upon to help fill the funding gap.  We have very loyal and generous alumni who made the last campaign a success by donating very large amounts.  These people may not have the inclination or financial ability to make similar gifts in the next campaign.  Results from this analytical effort will be used to identify people who may be likely major gift donors, but who are presently not identified as major gift prospects.  These names can then be passed on to development officers for further assessment.
+
+To begin this process, I will start by creating a model of currently known major gift donors.  Models currently in use by many schools have used some items in common, so provide a menu of variable choices, as do several published papers.  
+
+Some of the variables I will look at include:  
+* Velocity score (velocity is calculated by taking the average of a constituents giving history from the most recent three fiscal years, divided by the average of a constituents giving history over the past five fiscal years)  
+* Recency score (when in the last five years was their most recent gift?)
+* Largest gift in past five fiscal years
+* Number of years of giving
+* Giving capacity (five percent of estimated wealth, usually real estate)
+* Demographic data such as age, marital status, geographical location, and gender will be examined to see if they contribute to the characterization.
+
+I expect to refine the variables used as my analysis proceeds.  From reading published papers, I am confident that velocity and recency will be important variables for defining donors.  I think that number of years of giving and age will also be important to the analysis, but I will have to test them to see if this is really the case.  
+
+The first model will be built using data of known major donors, to identify their commonalities.  This model will used again with a set of non-donor data, and the results will be compared to the known-donor group.  If any individuals in the non-donor set match the characteristics identified from the known donor set, these names will be given to gift officers who may contact them and assess their likelihood of giving in erson.  
+
+A text report with explanatory graphics will be prepared so that development officers and leadership staff can understand the identification process.
